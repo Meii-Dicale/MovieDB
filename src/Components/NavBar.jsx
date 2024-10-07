@@ -15,7 +15,7 @@ const NavBar = () => {
           <Nav className="me-auto">
             
             <Link className='nav' to={'./genre'}>Genre</Link>
-            <Link className='nav' to={'./genre'}>Genre</Link>
+            <Link className='nav' to={'./actors'}>Acteurs</Link>
             <Link className='nav' to={'./genre'}>Genre</Link>
            
           </Nav>
